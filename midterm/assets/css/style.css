@@ -1,0 +1,9 @@
+.border {
+    border-image-source: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.com%2Fanimals%2Fmammals%2Ffacts%2Fdomestic-cat&psig=AOvVaw3micdNZjnLx5Xdsp4Yc-Pc&ust=1666647744618000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCg1eio9_oCFQAAAAAdAAAAABAD') 30 round;
+    padding: 15px;
+    border: 10px solid transparent;
+}
+
+.background{
+    color: blue;
+}
